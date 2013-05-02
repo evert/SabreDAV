@@ -5,7 +5,7 @@ This repository has moved! The new location is:
 
 https://github.com/fruux/sabre-dav
 
-Read more about this change on [my blog](evertpot.com/sabredav-acquired-by-fruux).
+Read more about this change on [my blog](http://evertpot.com/sabredav-acquired-by-fruux).
 
 Did you grab SabreDAV from source?
 ----------------------------------
